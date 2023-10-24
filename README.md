@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krebstar916
 - 👀 I’m interested in learning how to use git
 - 🌱 I’m currently learning how to use git
-- 💞️ I’m looking to collaborate on nothing, until I lear now to use git.
+- 💞️ I’m looking to collaborate on nothing, until I learn how to use git.
 - 📫 You can't reach me
 
 <!---
